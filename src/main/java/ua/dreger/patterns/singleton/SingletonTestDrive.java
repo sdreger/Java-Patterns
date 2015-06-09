@@ -1,8 +1,5 @@
 package ua.dreger.patterns.singleton;
 
-import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.Semaphore;
-
 /**
  * Created by Sergey on 03.06.2015.
  */

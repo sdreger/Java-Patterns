@@ -1,7 +1,5 @@
 package ua.dreger.patterns.command;
 
-import ua.dreger.patterns.command.Command;
-
 /**
  * Created by Sergey on 04.06.2015.
  */

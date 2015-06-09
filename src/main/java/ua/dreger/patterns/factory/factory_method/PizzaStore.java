@@ -1,7 +1,5 @@
 package ua.dreger.patterns.factory.factory_method;
 
-import ua.dreger.patterns.factory.factory_method.Pizza;
-
 /**
  * Created by Sergey on 02.06.2015.
  */
